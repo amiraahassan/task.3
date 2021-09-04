@@ -1,0 +1,71 @@
+body{
+    font-size: 20px; font-family: 'Noto Sans JP';
+}
+.navbar{
+    opacity: 0.9;
+    border-bottom: solid 5px #05809A;
+  
+}
+.nav-link{
+    font-size: 1.3rem; 
+    font-weight: 500px;
+    margin-left: 10px;
+}
+h1{
+    padding-top: 300px;
+    font-family: 'Dancing Script';
+    font-size: 80px;
+    border: 50px;
+}
+
+hr{
+    width: 300px;
+    background-color: #05809A;
+    border: 3px solid #05809A;
+    margin: 0px auto 20px auto;
+}
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(hsla(0, 0%, 0%, 0.5),
+    hsla(0, 0%, 0%, 0.5) ),url(../images/header.jpeg) ; 
+    background-position: center;
+    background-size: cover;
+}
+i{
+    font-size: 15px; color: #fff;
+}
+#logo{
+    font-size: 30px;
+
+}
+.hrsection{
+    width: 100px;
+    background-color: #05809A;
+    border: 3px solid #05809A;
+    margin: 0px auto 20px auto;
+
+
+}
+.playing{
+    min-height: 70vh;
+    background-image:linear-gradient(hsla(0, 0%, 0%, 0.2),
+    hsla(0, 0%, 0%, 0.2) ),url(../images/playing.jpg) ; 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 20px;
+}
+.icon{
+    font-size: 15px; color:#05809A ;
+
+}
+footer ul{
+    list-style: none;
+    float: left;
+    
+
+}
+.foot{
+    font-size: 30px;
+    margin-left: 20px;
+}
